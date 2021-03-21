@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-movie-2021"]=this["webpackJsonpreact-movie-2021"]||[]).push([[0],{9:function(e,t,n){"use strict";n.r(t);n(1);var c=n(3),r=n.n(c),s=n(0);var o=function(){return Object(s.jsx)("span",{children:"something"})};r.a.render(Object(s.jsx)(o,{}),document.getElementById("potato"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.601ff019.chunk.js.map
